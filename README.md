@@ -1,6 +1,6 @@
 # Prodcore Plugins — releases
 
-Installers for **Prodcore Plugins**, the macOS app that carries the Quad Cortex Automator and PartyKeys Audio Units. Needs macOS 15 or later; Prodcore itself isn't required.
+Installers for **Prodcore Plugins**, the macOS app that carries the Quad Cortex Automator and PartyKeys Audio Units. Needs macOS 14 (Sonoma) or later; Prodcore itself isn't required.
 
 ## Install or update (show Macs)
 
